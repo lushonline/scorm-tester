@@ -16,9 +16,7 @@
 				</catalogentry>
 				<language>en-us</language>
 				<description>
-					<langstring>
-This course when launched will test LMS GetValue and SetValue calls. It will on first launch set status to INCOMPLETE, on re-launch it will set score to mastery_score+1 or 100 if no matery_score returned by LMS.
-					</langstring>
+					<langstring>This course is designed to help check SCORM comms with an LMS</langstring>
 				</description>
 				<aggregationlevel>
 					<source>
